@@ -30,3 +30,7 @@ $ npm run build # For production
 
 and other documentation on file package.json on spesific scripts
 ```
+
+testing application via postman
+import this file :
+https://api.postman.com/collections/9028795-187c6cd8-8faf-413c-9c0c-35b25955f830?access_key=PMAT-01HK5Q8GDDZV1RPA33B37D2MSG
