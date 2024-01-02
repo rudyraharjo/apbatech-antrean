@@ -1,0 +1,23 @@
+{
+    "env": {
+        "targets": {
+            "node": "20"
+        }
+    },
+    "minify": true,
+    "jsc": {
+        "parser": {
+            "syntax": "typescript"
+        },
+        "minify": {
+            "compress": {
+                "unused": true
+            },
+            "mangle": true
+        }
+    },
+    "module": {
+        "type": "commonjs"
+    },
+    "sourceMaps": "inline"
+}
