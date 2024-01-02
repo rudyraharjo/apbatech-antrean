@@ -19,9 +19,10 @@ $ cd <application-name>
 
 $ cp .env.example .env # Update database credentials
 
+import db_apbatech.sql
+
 Start the application.
 
-```bash
 $ npm install # Install dependencies
 
 $ npm run dev # For development
@@ -29,8 +30,7 @@ $ npm run dev # For development
 $ npm run build # For production
 
 and other documentation on file package.json on spesific scripts
-```
 
-testing application via postman
+testing application via postman desktop app
 import this file :
 https://api.postman.com/collections/9028795-187c6cd8-8faf-413c-9c0c-35b25955f830?access_key=PMAT-01HK5Q8GDDZV1RPA33B37D2MSG
